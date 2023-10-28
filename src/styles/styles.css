@@ -1,0 +1,16 @@
+.btn-logout {
+  background-color: #142c74 !important;
+  border: 3px solid transparent !important;
+  color: #fff !important;
+}
+
+.btn-logout:hover {
+  background-color: #142c74 !important;
+  border: 3px solid #fff !important;
+  color: #fff !important;
+}
+
+.nav-home.navbar {
+  background-color: #142c74 !important;
+  border-bottom: 3px solid #fff;
+}

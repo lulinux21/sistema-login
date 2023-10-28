@@ -36,8 +36,15 @@ const Signup = () => {
 
   return (
     <C.Container>
-      <C.Label>SISTEMA DE LOGIN</C.Label>
+      <C.Label>
+        <img
+          src="https://d335luupugsy2.cloudfront.net/cms/files/335916/1657750336/$5c3n6c19mcl"
+          alt="Logo W1"
+          width={"180px"}
+        />
+      </C.Label>
       <C.Content>
+        <C.Label>SISTEMA DE CADASTRO</C.Label>
         <Input
           type="email"
           placeholder="Digite seu E-mail"

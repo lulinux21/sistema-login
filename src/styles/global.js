@@ -11,9 +11,11 @@ const GlobalStyle = createGlobalStyle`
   body {
     width: 100vw;
     height: 100vh;
-    background-color: #f0f2f5;
+    background-image: linear-gradient(to bottom, transparent 0%, transparent 100%), url(https://d335luupugsy2.cloudfront.net/cms/files/335916/1658245150/$k69hyvyb32);
     font-family: Arial, Helvetica, sans-serif
   }
+
+  
 `;
 
 export default GlobalStyle;
